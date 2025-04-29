@@ -40,4 +40,5 @@ Reference books:
 
 # Participants
 
+Stefano
 Ivan
